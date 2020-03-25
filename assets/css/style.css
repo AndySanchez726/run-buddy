@@ -53,8 +53,10 @@ text-align: right;
 footer a {
     color: #024e76;
 }
-.hero{
+section {
     padding: 60px;
+}
+.hero{
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
@@ -98,7 +100,6 @@ footer a {
 }
 .intro{
     text-align: center;
-    padding: 60px;
 }
 .intro p{
     line-height: 1.7;
@@ -110,7 +111,6 @@ footer a {
 .steps{
     text-align: center;
     background: #fce138; 
-    padding: 60px;     
 }
 .section-title {
     font-size: 55px;
@@ -147,7 +147,6 @@ footer a {
 }
 .trainers {
     text-align: center;
-    padding: 60px;
 }
 .trainer {
     width: 900px;
@@ -187,7 +186,6 @@ footer a {
 .contact {
     background-color: #024e76;
     text-align: center;
-    padding: 60px;
 }
 .contact h2 {
     color: #fce138;
